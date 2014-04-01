@@ -1,6 +1,7 @@
 # PDF Extractor Demo
 
 ![CODE](http://code-research.eu/wp-content/uploads/2012/06/code_logo.png)
+![Know-Center](http://code-research.eu/wp-content/uploads/2012/04/knowcenter_logo_small.png)
 
 Simple demo project for the PDF extractor created within the [CODE](http://code-research.eu/team) project. It's
 a simple command line application that allows you to specify a PDF file, uploads it to the CODE service and
