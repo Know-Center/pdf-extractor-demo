@@ -2,7 +2,7 @@
 
 [![CODE](http://code-research.eu/wp-content/uploads/2012/06/code_logo.png)](http://code-research.eu/)
    
-[![Know-Center](http://code-research.eu/wp-content/uploads/2012/04/knowcenter_logo_small.png)](http://www.know-center.at]
+[![Know-Center](http://code-research.eu/wp-content/uploads/2012/04/knowcenter_logo_small.png)](http://www.know-center.at)
 
 Simple demo project for the PDF extractor created within the [CODE](http://code-research.eu/team) project by [Know-Center](http://www.know-center.at). It's
 a simple command line application that allows you to specify a PDF file, uploads it to the CODE service and
